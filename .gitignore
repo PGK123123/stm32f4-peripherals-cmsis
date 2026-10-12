@@ -1,0 +1,12 @@
+# Build output across all lab subprojects
+**/Debug/
+**/Release/
+Debug/
+Release/
+
+# Temporary files and archives
+*.zip
+*.bak
+*~
+Thumbs.db
+.DS_Store
